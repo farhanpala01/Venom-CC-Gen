@@ -1,11 +1,12 @@
 # Venom-CC-Gen
 Venom CC Gen is basically a scrap tool which scrap Indian cc from a website.<br>
-The information it provides us is -:
+<br>
+<b>The information it provides us is -:</b>
 <li>Card Number</li>
 <li>Expiry Date</li>
 <li>CVV</li>
 <li>Issuer Bank Name</li>
-
+<br>
 <b> Types of card available: </b>
 <li>Visa</li>
 <li>MasterCard</li>
